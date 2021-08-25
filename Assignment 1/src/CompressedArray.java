@@ -1,7 +1,7 @@
 /** The class takes the original array size and compresses it to remove 
  * duplicate integer values. It prints the value out in a triangle shaped array
  * 
- * @author Lisa Jia, Student Number 251140790
+ * @author Lisa Jia, 
  * Completed: 02/05/2021
 */
 public class CompressedArray {
