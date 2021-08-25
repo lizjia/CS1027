@@ -2,7 +2,6 @@
 /**
  * CS1027 ASSIGN 2
  * @author Lisa Jia
- * Student Number: 251140790
  * 
  * This class designs an algorithm to help cupid shoot targets given the provided limitations
  */
