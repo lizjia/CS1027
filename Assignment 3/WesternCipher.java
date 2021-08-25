@@ -2,7 +2,6 @@ import java.util.Scanner;
 import java.io.*;
 /**
  * @author Lisa Jia
- * @author Student Number: 251140790
  * 
  *         Date Completed: 03/16/2021
  * 
