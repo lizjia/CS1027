@@ -1,6 +1,5 @@
 /**
  * @author Lisa Jia
- * @author Student ID: 251140790
  * 
  * This program computes a path that cupid can follow to shoot arrows
  *
