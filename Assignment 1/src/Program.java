@@ -2,7 +2,7 @@
  * for each of them. It contains arrays of those given cities and contains a CompressedArray containing
  * the distance between them
  * 
- * @author Lisa Jia; Student Number 251140790
+ * @author Lisa Jia
  * Completed on: 02/05/2021
  *
  */
